@@ -49,7 +49,6 @@ Client communication · Analytical thinking · Problem solving · Technical docu
 
 * AI & Data Analytics
 * Financial Technology (FinTech)
-* LATAM-focused business development in Switzerland
 * Ethical innovation and human-centered design
 
 ---
